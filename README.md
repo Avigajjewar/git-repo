@@ -1,10 +1,10 @@
 # GitHub Profile Viewer
-Welcome to the GitHub Profile Viewer repository! This application allows users to fetch GitHub user information by entering their username. It retrieves the user's profile picture, bio, location, and lists all their repositories. Click <a href="https://sourabh943.github.io/GitRepo/">here</a> to Access the site.
+Welcome to the GitHub Profile Viewer repository! This application allows users to fetch GitHub user information by entering their username. It retrieves the user's profile picture, bio, location, and lists all their repositories. Click <a href="https://avigajjewar.github.io/git-repo/">here</a> to Access the site.
 
 ### Screenshots
-<img src="screenshot/Screenshot 2024-01-30 171432.png">
+<img src="screenshots/Git-repo1.png">
 
-<img src="screenshot/Screenshot 2024-01-30 171700.png">
+<img src="screenshots/Git-repo2.png">
 
 ### Features
 - Fetch GitHub user information by entering the username.
